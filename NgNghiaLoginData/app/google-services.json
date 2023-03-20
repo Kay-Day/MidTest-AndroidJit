@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "103974119319",
+    "firebase_url": "https://login-e0f23-default-rtdb.firebaseio.com",
+    "project_id": "login-e0f23",
+    "storage_bucket": "login-e0f23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103974119319:android:5ec50e702e909e3eec06d2",
+        "android_client_info": {
+          "package_name": "com.example.ngnghialogindata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103974119319-sus1u4m8u457mtc2gqigv1299a64dgp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEPNCUZoSXUMG54tLCz1IDbbOduFOVbMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103974119319-sus1u4m8u457mtc2gqigv1299a64dgp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
